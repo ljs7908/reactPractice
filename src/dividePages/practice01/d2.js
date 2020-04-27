@@ -5,7 +5,6 @@ import P3 from "./p3";
 
 const Divide = styled.div`
   display: flex;
-  width: 100%;
 `;
 
 const d2 = () => {

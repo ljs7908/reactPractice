@@ -2,8 +2,8 @@ import React from "react";
 import styled from "styled-components";
 
 const P50 = styled.div`
-  witdh = 100%;
   background-color: green;
+  flex: 1;
 `;
 const marginzero = {
   margin: "0px",
