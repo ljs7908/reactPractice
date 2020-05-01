@@ -1,8 +1,9 @@
 import React from "react";
 import styled from "styled-components";
+import palette from "../../lib/styles/palette";
 
 const P50 = styled.div`
-  background-color: #66ff66;
+  background-color: ${palette.cyan[1]};
   flex: 1;
 `;
 
