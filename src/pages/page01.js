@@ -18,7 +18,7 @@ const Main = styled.div`
 
 const WhiteBox = styled.div`
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.025);
-  padding: 5rem;
+  padding: 2rem;
   width: 840px;
   background: white;
   border-radius: px;
